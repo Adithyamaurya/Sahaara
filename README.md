@@ -26,22 +26,15 @@ This version focuses entirely on:
 ---
 
 ## 📸 App Screenshots
+## 📸 App Screenshots
 
-### 1️⃣ Splash Screen
-![Splash Screen](read_images/1.png)
-
-### 2️⃣ Onboarding
-![Onboarding](read_images/3.png)
-
-### 3️⃣ Home Dashboard
-![Home](read_images/2.png)
-
-### 4️⃣ Emergency Mode Activated
-![Emergency](readme_images/4.png)
-
-### 5️⃣ Settings Screen
-![Settings](read_images/5.png)
-
+<p align="center">
+  <img src="read_images/1.png" width="180"/>
+  <img src="read_images/3.png" width="180"/>
+  <img src="read_images/2.png" width="180"/>
+  <img src="readme_images/4.png" width="180"/>
+  <img src="read_images/5.png" width="180"/>
+</p>
 > Place your screenshots inside:  
 > `assets/screenshots/`
 
