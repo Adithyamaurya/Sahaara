@@ -29,11 +29,11 @@ This version focuses entirely on:
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="read_images/1.png" width="180"/>
-  <img src="read_images/3.png" width="180"/>
-  <img src="read_images/2.png" width="180"/>
-  <img src="readme_images/4.png" width="180"/>
-  <img src="read_images/5.png" width="180"/>
+  <img src="read_images/1.png" width="200"/>
+  <img src="read_images/3.png" width="200"/>
+  <img src="read_images/2.png" width="200"/>
+  <img src="read_images/4.png" width="200"/>
+  <img src="read_images/5.png" width="200"/>
 </p>
 > Place your screenshots inside:  
 > `assets/screenshots/`
